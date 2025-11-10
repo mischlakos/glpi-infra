@@ -1,0 +1,6 @@
+﻿# általános dolgok
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+
